@@ -59,7 +59,7 @@
         </style>
     </head>
     <body>
-        <video src="ufo.mp4" autoplay loop></video>
+        <video src="lamp.mp4" autoplay loop></video>
         <nav class="nav navbar-inverse">
             <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navigation">
                 <span class="icon-bar"></span>
